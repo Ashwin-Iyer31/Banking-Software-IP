@@ -22,7 +22,7 @@ About US & Contact Us-> Garbage Information About us.<br>
 
 Login -><br>
 1. At the begining there are no login accounts created, sign up only allowed for bank account holders.<br>
-2. Sign Up -> Enter Account NUmber and Name to create login ID and Password.<br>
+2. Sign Up -> Enter Account Number and Name to create login ID and Password both of your choice.<br>
 3. Login -> Enter Login ID and password (Not account number or name) if present, else Sign Up, else go to Bank for Account Creation.<br>
   3.1. Transact -> Simple Transation between Two accounts. (Uses Actual Java Transactions).<br>
   3.2. Review Account Details -> Shows your Information.<br>
@@ -34,4 +34,6 @@ Login -><br>
 Features -><br>
 1.GUI Application.<br>
 2.Beginner Project, Not much into OOP, Data Structures, Single Main Class.<br>
-3.Dedicated Method for Encrypted Password storage in Database.
+3.Dedicated Method for Encrypted Password storage in Database.<br>
+
+Demo Video: https://drive.google.com/file/d/1C7iH-ptbAJ2flpzMNFKmeOwCi_YdXLDN/view?usp=sharing
