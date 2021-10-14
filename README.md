@@ -1,6 +1,7 @@
 # Banking-Software-IP
 Banking Application,<br>
 An upgrade to ATM application using Java and MySQL.<br>
+Made Using NetBeans.<br>
 Source Code -> "src/main.java"<br>
 
 To simply start running -><br>
